@@ -22,7 +22,7 @@ exports.plugins = {
 
 exports.npm = {
   styles: {
-    // Je récupére mes CSS depuis node-modules
+    // Je récupére mes CSS depuis node_modules
     "normalize.css": ["normalize.css "],
     "font-awesome": ["css/font-awesome.css"]
   }
